@@ -37,7 +37,7 @@
 ## 👥 Команда
 
 | Участник | Контакты |
-|---|
+|---|---|
 | Куренков Иван Андреевич | [@thekurenkov](https://t.me/thekurenkov) |
 | Сизых Михаил Павлович | [@obamatesseract](https://t.me/obamatesseract) |
 | Бреусова Юлия | [@JuliaSlova29](https://t.me/JuliaSlova29) |
