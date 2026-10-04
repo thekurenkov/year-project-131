@@ -42,7 +42,7 @@
 | Сизых Михаил Павлович | [@obamatesseract](https://t.me/obamatesseract) |
 | Бреусова Юлия | [@JuliaSlova29](https://t.me/JuliaSlova29) |
 
-#### 🎓 Руководитель
+### 🎓 Руководитель
 
 | ФИО | Контакты |
 |---|---|
